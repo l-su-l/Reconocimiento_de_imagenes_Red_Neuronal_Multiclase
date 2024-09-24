@@ -1,0 +1,22 @@
+# Ignore .env file (often contains environment variables)
+.env
+
+# Ignore manage.py (if you don't want to track this file)
+.manage.py
+
+# Ignore wea.py (if you don't want to track this specific Python file)
+.wea.py
+
+# Ignore media directory (often used to store uploaded files in Django)
+.media/
+
+# Ignore __pycache__ directories (Python bytecode cache)
+__pycache__/
+
+.venv/
+
+.animales/
+
+.imagenes_animales/
+
+.rename_archivo.py
