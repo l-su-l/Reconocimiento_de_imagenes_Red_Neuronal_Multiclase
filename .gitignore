@@ -15,8 +15,8 @@ __pycache__/
 
 .venv/
 
-.animales/
+.animales
 
-.imagenes_animales/
+.imagenes_animales
 
 .rename_archivo.py
