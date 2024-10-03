@@ -15,4 +15,3 @@ Como se ejecuta:
 
 1. Clona este repositorio o descarga el archivo.
 2. Asegúrate de tener instaladas las dependencias necesarias.
-3. Ejecuta el script desde la IDLE
